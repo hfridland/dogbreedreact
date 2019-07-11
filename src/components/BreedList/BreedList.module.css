@@ -1,0 +1,24 @@
+.BreedList {
+    margin: 10px;
+}
+
+.ul {
+    list-style-type: none;
+}
+
+.Center {
+    text-align: center;
+}
+
+/*ul {
+    flex-grow: 1;
+}*/
+
+.ScrollContainer {
+    flex-grow: 1;
+    
+    box-sizing: border-box;
+    height: 78vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
